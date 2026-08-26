@@ -17,5 +17,5 @@ Static portfolio website built with HTML, CSS, and JavaScript.
 Before publishing, replace:
 - `akhwannursidiq@gmail.com`
 - LinkedIn `https://www.linkedin.com/in/muhammad-akhwan-nursidiq-767b5624a/`
-- GitHub `akhwan-nursidiq.github.io`
+- GitHub `akhwannursidiq.github.io`
 - Any project details that need correction
