@@ -1,4 +1,4 @@
-# Akhwan Nursidiq — Network Engineer Portfolio
+# Muhammad Akhwan Nursidiq — Network Engineer Portfolio
 
 Static portfolio website built with HTML, CSS, and JavaScript.
 
@@ -15,7 +15,7 @@ Static portfolio website built with HTML, CSS, and JavaScript.
 5. Save and wait for GitHub Pages to deploy.
 
 Before publishing, replace:
-- `your.email@example.com`
-- LinkedIn `#`
-- GitHub `#`
+- `akhwannursidiq@gmail.com`
+- LinkedIn `https://www.linkedin.com/in/muhammad-akhwan-nursidiq-767b5624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`
+- GitHub `https://akhwannursidiq.github.io/`
 - Any project details that need correction
