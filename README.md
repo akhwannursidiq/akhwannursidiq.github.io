@@ -8,7 +8,7 @@ Static portfolio website built with HTML, CSS, and JavaScript.
 - `script.js` — mobile navigation
 
 ## Publish with GitHub Pages
-1. Create a GitHub repository, for example `akhwan-nursidiq.github.io`.
+1. Create a GitHub repository, for example `akhwannursidiq.github.io`.
 2. Upload these three files to the repository root.
 3. Open **Settings → Pages**.
 4. Select **Deploy from a branch**, choose `main` and `/root`.
